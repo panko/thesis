@@ -2,14 +2,17 @@
 ## milestones
 ### code
 - [x] Ground truth data  
-- [ ] adaptive_border_marching implementation  
-- [ ] algorithm 2  
-- [ ] algorithm 3   
-- [ ] my_algorithm    
+- [x] non ABM
+- [x] adaptive_border_marching implementation  
+- [x] various visualizations
 ### paper
+
+- [x] acknowledgement
 - [x] preface
-- [ ] alg1 introduction  
-- [ ] alg2 introduction  
-- [ ] alg3 introduction  
-- [ ] my_alg introduction  
-- [ ] conclusion
+- [x] about segmentation
+- [x] used technologies
+- [x] used image processing algorithms
+- [x] lung segmentation algorithms
+- [x] used dataset
+- [x] results
+- [x] conclusion
